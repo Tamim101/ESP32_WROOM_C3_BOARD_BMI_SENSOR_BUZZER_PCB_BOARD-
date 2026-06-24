@@ -1,0 +1,20 @@
+Plugin v0.0.1 running on KiCad 9.0.8+dfsg-1 and Python 3.14.4 (main, Apr  8 2026, 04:02:31) [GCC 15.2.0] on linux.
+Config file /home/tamim-khan/pcb/ESP32_project/ESP32_project.projinst.json not found. Creating new one.
+Valid Board found for /home/tamim-khan/pcb/ESP32_project/ESP32_project.kicad_sch
+1 sheet instances entries in /home/tamim-khan/pcb/ESP32_project/ESP32_project.kicad_sch
+/home/tamim-khan/pcb/ESP32_project/esp32 c3 0.2.kicad_pcb doesn't exist
+2 sheet instances entries in /home/tamim-khan/pcb/ESP32_project/esp32 c3 0.2.kicad_sch
+/home/tamim-khan/pcb/ESP32_project/sensor.kicad_pcb doesn't exist
+0 sheet instances entries in /home/tamim-khan/pcb/ESP32_project/sensor.kicad_sch
+/home/tamim-khan/pcb/ESP32_project/user interface.kicad_pcb doesn't exist
+0 sheet instances entries in /home/tamim-khan/pcb/ESP32_project/user interface.kicad_sch
+Root item: <wx._dataview.TreeListItem object at 0x78a260091eb0>
+No Valid Child board for 3ecaeee0-f041-4e12-830f-8a496c614a7f
+No Valid Child board for 455dc737-f130-4ecb-a4c7-490fb7563dff
+No Valid Child board for ffe9202a-93f6-4cd0-a92a-3a50e6ec695f
+No Valid Child board for 
+Instance is a dead branch: 
+Saving anchor None for /home/tamim-khan/pcb/ESP32_project/esp32 c3 0.2.kicad_sch
+Saving anchor None for /home/tamim-khan/pcb/ESP32_project/sensor.kicad_sch
+Saving anchor None for /home/tamim-khan/pcb/ESP32_project/user interface.kicad_sch
+Saved.

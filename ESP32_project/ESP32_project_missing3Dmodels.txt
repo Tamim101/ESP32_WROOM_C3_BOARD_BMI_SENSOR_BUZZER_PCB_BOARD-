@@ -1,0 +1,17 @@
+### Missing 3D models - created on 2026-06-21 13:56
+### Printed by checking_3D_models plugin
+Board file: /home/tamim-khan/pcb/ESP32_project/ESP32_project.kicad_pcb
+3D missing models written to:
+/home/tamim-khan/pcb/ESP32_project/ESP32_project_missing3Dmodels.txt
+-------
+('LED2', '/home/tamim-khan/pcb/ESP32_project/LTST-C170KRKT.stp')
+('F1', '/home/tamim-khan/pcb/ESP32_project/0ZCH0110AF2E.stp')
+('LED4', '/home/tamim-khan/pcb/ESP32_project/LTST-C170KRKT.stp')
+('LED3', '/home/tamim-khan/pcb/ESP32_project/LTST-C170KRKT.stp')
+('J5', '/usr/share/kicad/3dmodels/Connector_Molex.3dshapes/Molex_Micro-Latch_53253-0570_1x05_P2.00mm_Vertical.step')
+('LED6', '/home/tamim-khan/pcb/ESP32_project/LTST-C170KRKT.stp')
+('LED1', '/home/tamim-khan/pcb/ESP32_project/LTST-C170KRKT.stp')
+('LED5', '/home/tamim-khan/pcb/ESP32_project/LTST-C170KRKT.stp')
+-------
+NUM of 3D missing models:8
+checked extensions ['.stp', '.step', '.stpZ']
